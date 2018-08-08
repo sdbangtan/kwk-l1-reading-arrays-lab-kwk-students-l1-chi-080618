@@ -29,5 +29,4 @@ end
 
 def first_second_and_third_students
   return STUDENT_NAMES[0, 1, 2]
-  
 end
